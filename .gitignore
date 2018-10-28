@@ -17,3 +17,5 @@
 .project
 .settings/
 target/
+
+src/main/java/hello/io/spring/guides/gs_producing_web_service/*
